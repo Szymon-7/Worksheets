@@ -11,5 +11,5 @@ oneMoreDone.o: oneMoreDone.c
 	gcc -Wall -std=c99 -c oneMoreDone.c 
 
 clean:
-	rm *.o worksheetW22fi
+	rm *.o worksheetW2
 
